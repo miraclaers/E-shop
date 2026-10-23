@@ -32,5 +32,4 @@ front-end: Reactjs, Redux, Axios, Sass, react-bootstrap
 <img src="screen/screen5.png">
 <img src="screen/screen6.png">
 
-
 This is my project.
